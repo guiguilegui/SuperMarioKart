@@ -25,4 +25,8 @@ SystemID SNES
 0012C1	b	u	0	WRAM	Lap3
 001052	b	u	0	WRAM	Collision1
 001012	b	u	0	WRAM	Char
+000101	b	u	0	WRAM	Time1
+000102	b	u	0	WRAM	Time2
+000104	b	u	0	WRAM	Time3
+001040	b	h	0	WRAM	2x People in front
 
